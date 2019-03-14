@@ -30,7 +30,7 @@ public class DraggableItemController : MonoBehaviour {
         //if box is grabbed
         else
         {
-            //wrong
+            //
             xPos = transform.position.x;
         }
 	}
